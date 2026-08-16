@@ -1,0 +1,21 @@
+# ── MATLAB ────────────────────────────────────────────────────
+*.asv          # Auto-save files
+*.m~           # Backup files
+*.mex*         # Compiled MEX files (platform-specific)
+octave-workspace
+
+# ── Large generated data files ────────────────────────────────
+# These are produced by running Task1/Task2 with the RTL-SDR.
+# They are excluded due to GitHub's file-size limits (>50 MB).
+# Regenerate them by running Task1.m and Task2.m with hardware.
+Task2_RawData.mat
+raw_data.mat
+
+# ── OS / Editor ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
