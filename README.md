@@ -20,6 +20,7 @@ A complete **software-defined FM radio receiver** built in MATLAB, using an RTL-
 - [Outputs](#outputs)
 - [How to Run](#how-to-run)
 - [Key DSP Concepts Covered](#key-dsp-concepts-covered)
+- [Authors](#authors)
 
 ---
 
@@ -277,3 +278,10 @@ run('Task5.m')
 - **Wiener Filtering** — Optimal linear denoising in the spectral domain
 - **Welch's PSD Estimation** — Averaged periodogram for smooth spectral analysis
 - **Decimation** — Multi-rate signal processing for sample rate conversion
+
+---
+
+## Authors
+
+- **Surya Karthik**
+- **G V N Mokshagna**
